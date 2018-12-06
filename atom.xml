@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tao_MrLiu</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-12-06T15:42:59.430Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tao_MrLiu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world 立博</title>
+    <link href="http://yoursite.com/2018/12/04/%E7%AB%8B%E5%8D%9A/"/>
+    <id>http://yoursite.com/2018/12/04/立博/</id>
+    <published>2018-12-04T14:58:37.756Z</published>
+    <updated>2018-12-06T15:42:59.430Z</updated>
+    
+    <content type="html"><![CDATA[<p><font face="楷体" size="5">自从从事了软件开发后，一直想要搭建一个个人网站和大家分享一下生活和技术。</font><br><a id="more"></a></p><p><font face="楷体" size="5">奈何一入媛门，深似海！！<br><img src="/2018/12/04/立博/1.jpg" alt="Alt"></font></p><p><font face="楷体" size="5">以前的我实在是没有时间去想下一步的路在哪里<br><img src="/2018/12/04/立博/2.jpg" alt="Alt"></font></p><p><font face="楷体" size="5">最近一段时间偶喘一口气，于是思考一下人生。有人说过人生一场发现自己的旅程。所以在加班之余想着不能只光埋头苦干，得好好发展互联网思维和大家一起分享技术和生活上的细节，这样也许能发现更好的你我呢!<br><img src="/2018/12/04/立博/3.jpg" alt="Alt"></font></p><p><font face="楷体" size="5">今天是我第一天更新文章。由于已是深夜，所以不打算和大家分享技术了。准备和大家聊聊家常。<br><img src="/2018/12/04/立博/4.jpg" alt="Alt"></font></p><p><font face="楷体" size="5">本人进入软件开发好几年了，有幸能得到很多朋友的关照，一步步成长。但是也深知软件行业的苦逼，这个行业如果不学习就得吃亏，搭建这个个人网站的目的之一就是和大家相互探讨，共同学习。在这个网站中我打算暂且开放生活和技术两个栏目，当然咯目前这个网站功能还是不够健全的，我会利用业余时间一步一步优化，争取能把站面弄的更漂亮点。如果后面大家比较捧场的话，我也打算开通个人公众号（当然这是后话）</font></p><p><img src="/2018/12/04/立博/5.jpg" alt="Alt"></p><p><font face="楷体" size="5">文笔不好，大家多多海涵啊！</font></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;font face=&quot;楷体&quot; size=&quot;5&quot;&gt;自从从事了软件开发后，一直想要搭建一个个人网站和大家分享一下生活和技术。&lt;/font&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
